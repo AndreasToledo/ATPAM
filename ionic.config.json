@@ -1,0 +1,7 @@
+{
+  "name": "ATPAM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

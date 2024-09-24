@@ -1,0 +1,75 @@
+.holtwood-one-sc-regular {
+    font-family: "HoltWood One SC", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+     
+.istok-web-regular {
+    font-family: "Istok Web", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.istok-web-bold {
+    font-family: "Istok Web", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+     
+.istok-web-regular-italic {
+    font-family: "Istok Web", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+     
+.istok-web-bold-italic {
+    font-family: "Istok Web", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+     
+ion-content{
+    --background: radial-gradient(
+    circle at 25% 35%,
+    #A7CD89 0%,
+    #2DB392 30%,
+    #30DE80 100%
+    );
+}
+     
+#title{
+    font-family: HoltWood One SC;
+    color: #144273;
+    margin-left: auto;
+    margin-bottom: 4px;
+    font-size: 40px;
+}
+     
+#year{
+    font-family: HoltWood One SC;
+    color: white;
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+     
+#desc{
+    font-family: Istok Web;
+    color: white;
+    margin: auto;
+    font-size: 20px;
+}
+     
+h1{
+    text-align: justify;
+}
+     
+ion-button{
+    font-family: Istok Web;
+    --color: white;
+    --background: #F2C94C;
+}
+     
+#product{
+    margin-left: 15px;
+}

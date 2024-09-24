@@ -1,0 +1,123 @@
+.holtwood-one-sc-regular {
+    font-family: "HoltWood One SC", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    }
+     
+    .istok-web-regular {
+    font-family: "Istok Web", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    }
+     
+    .istok-web-bold {
+    font-family: "Istok Web", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    }
+     
+    .istok-web-regular-italic {
+    font-family: "Istok Web", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    }
+     
+    .istok-web-bold-italic {
+    font-family: "Istok Web", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    }
+     
+    .header{
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+    }
+     
+    h1{
+    font-family: Holtwood One SC;
+    }
+     
+    p{
+    font-family: Istok Web;
+    font-size: small;
+    }
+     
+    h3{
+    font-family: Istok Web;
+    font-weight: 700;
+    }
+     
+    ion-icon{
+    color: black;
+    }
+     
+    ion-content{
+    --background: white;
+    }
+     
+    h1, h3, p{
+    margin-left: 10px;
+    text-align: justify;
+    color: #144273;
+    }
+     
+    h1{
+    margin-bottom: 10px;
+    }
+     
+    #price{
+    margin-bottom: -20px;
+    }
+     
+    #tenis_tab2{
+    margin-left: 5px;
+    }
+     
+    #menu, #person{
+    margin-top: 15px;
+    }
+     
+    #texts{
+    width: 100%;
+    display: inline-flex;
+    }
+     
+    #item1, #item2, #item3{
+    width: 120px;
+    height: 80px;
+    display: inline-flex;
+    justify-content: center;
+    }
+     
+    #item1{
+    --background: #FFF05D;
+    }
+     
+    #item2, #item3{
+    --background: #E1E0E0;
+    }
+     
+    #share{
+    --background: #144273;
+    }
+     
+    #buy{
+    --background: linear-gradient(
+    #149E8E 0%,
+    #35E97E 100%
+    );
+    }
+     
+    #share-icon, #cart-icon{
+    color: white;
+    }
+    
+    .texts{
+        position: relative;
+    }      
+    .buttons{
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
